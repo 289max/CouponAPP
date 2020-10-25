@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CouponAPP</string>
+    <string name="title_search">搜索</string>
+    <string name="text_home">主页</string>
+    <string name="text_channel">频道</string>
+    <string name="text_user">我的</string>
+    <string name="text_discover">发现</string>
+    <string name="search_tip">输入关键字/宝贝名进行搜索</string>
+    <string name="text_network_error_tips">网络加载错误，请点击重试</string>
+    <string name="text_goods_off_prise">省%1$d元</string>
+    <string name="text_goods_original_price">￥%1$s</string>
+    <string name="text_goods_sell_count">%1$d人已经购买</string>
+    <string name="title_home_looper">推荐</string>
+    <string name="text_tao_kou_ling">淘口令</string>
+    <string name="text_button_onsell">特惠</string>
+    <string name="text_search_history">热门搜索</string>
+    <string name="text_selected_title">精选宝贝</string>
+    <string name="text_search_history_tv">搜索历史</string>
+
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimaryDark">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:id="@+id/ticket_back"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:paddingLeft="15dp"
+        android:src="@mipmap/back"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_tao_kou_ling"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+           android:layout_centerInParent="true" />
+     </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp">
+
+        <ImageView
+            android:id="@+id/ticket_cover"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="33dp"
+            android:src="@mipmap/no_image" />
+        <com.example.couponapp.ui.custom.LoadingView
+            android:layout_height="33dp"
+            android:layout_width="33dp"
+            android:layout_centerInParent="true"
+            android:id="@+id/ticket_cover_loading"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="加载出错，请点击重试"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:id="@+id/ticket_retry"/>
+    </RelativeLayout>
+
+    <EditText
+        android:layout_width="244dp"
+        android:layout_height="40dp"
+        android:background="@drawable/shape_ticket_code_box_bg"
+        android:layout_marginTop="30dp"
+        android:focusable="false"
+        android:id="@+id/ticket_code"
+        android:text="$123132216456"
+        android:gravity="center"/>
+    <Button
+        android:layout_width="141dp"
+        android:layout_height="40dp"
+        android:id="@+id/ticket_copy_btn"
+        android:background="@drawable/shape_button_bg"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="领券"
+        android:textSize="18sp"
+        android:textColor="@color/white"/>
+
+
+
+</LinearLayout>
