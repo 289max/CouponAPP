@@ -1,17 +1,31 @@
 # CouponAPP 
-安卓开发学习Demo
-架构：MVP
-主要功能实现：
-1.Navigation实现底部导航栏及切换
-2.RecycleView实现主页、精选界面、特惠界面的商品列表
-3.ViewPage实现无限轮播图
-4.Retrofit实现网络数据请求
-5.TwinklingRefreshLayout实现下拉刷新
-6.ButterKnife 实现View注解
-7.GsonFormat插件快速生成json实体类
-8.利用Glide加载网络图片
-9.自定义属性和控件
-10.RxQRCode和Zxing实现二维码扫描和解析
-截图：
-
-
+跟着B站视频，写完了整个APP  
+B站教程地址：https://www.bilibili.com/video/BV1cA411Y7LM        
+API文档：https://www.sunofbeach.net/a/1201366916766224384   
+架构：MVP    
+主要功能实现：  
+1.Navigation实现底部导航栏及切换  
+2.RecycleView实现主页、精选界面、特惠界面的商品列表  
+3.ViewPage实现无限轮播图  
+4.Retrofit实现网络数据请求  
+5.TwinklingRefreshLayout实现下拉刷新  
+6.ButterKnife 实现View注解  
+7.GsonFormat插件快速生成json实体类  
+8.利用Glide加载网络图片  
+9.自定义属性和控件  
+10.RxQRCode和Zxing实现二维码扫描和解析  
+截图：  
+首页：    
+![](https://i.loli.net/2020/10/26/8kSrumnBwTLv5ip.png)  
+精选页面：  
+![](https://i.loli.net/2020/10/26/SbsPjhCTLaeynHv.png)  
+特惠界面：  
+![](https://i.loli.net/2020/10/26/KYaRNociU65GEqH.png)  
+搜索界面：  
+![](https://i.loli.net/2020/10/26/Cfn3jH9SZryzqFm.png)    
+搜索结果：  
+![](https://i.loli.net/2020/10/26/3duvlhCDRkOX2ca.png)   
+点击商品，切换到领券界面  
+![](https://i.loli.net/2020/10/26/71B6isJ5pf9ZgAD.png)    
+点击领券，跳转到淘宝：    
+![](https://i.loli.net/2020/10/26/N9eDkSCLw4qh3mf.png)  
