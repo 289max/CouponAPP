@@ -12,7 +12,7 @@
 8.利用Glide加载网络图片  
 9.自定义属性和控件  
 10.RxQRCode和Zxing实现二维码扫描和解析  
-B站教程地址：https://www.bilibili.com/video/BV1cA411Y7LM
-API文档：https://www.sunofbeach.net/a/1201366916766224384
+B站教程地址：https://www.bilibili.com/video/BV1cA411Y7LM  
+API文档：https://www.sunofbeach.net/a/1201366916766224384  
 
 
