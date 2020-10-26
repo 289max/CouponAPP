@@ -1,8 +1,8 @@
 # CouponAPP 
 跟着B站视频，写完了整个APP  
-B站教程地址：https://www.bilibili.com/video/BV1cA411Y7LM      
-API文档：https://www.sunofbeach.net/a/1201366916766224384 
-架构：MVP  
+B站教程地址：https://www.bilibili.com/video/BV1cA411Y7LM        
+API文档：https://www.sunofbeach.net/a/1201366916766224384   
+架构：MVP    
 主要功能实现：  
 1.Navigation实现底部导航栏及切换  
 2.RecycleView实现主页、精选界面、特惠界面的商品列表  
