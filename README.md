@@ -1,7 +1,7 @@
 # CouponAPP 
-跟着B站视频，写完了整个APP
-架构：MVP
-主要功能实现：
+跟着B站视频，写完了整个APP  
+架构：MVP  
+主要功能实现：  
 1.Navigation实现底部导航栏及切换  
 2.RecycleView实现主页、精选界面、特惠界面的商品列表  
 3.ViewPage实现无限轮播图  
