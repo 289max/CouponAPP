@@ -7,6 +7,6 @@
     android:paddingTop="4dp"
     android:paddingRight="10dp"
     android:paddingBottom="4dp"
-    android:text="毛衣">
+    android:text="">
 
 </android.widget.TextView>
