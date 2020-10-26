@@ -5,7 +5,7 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        applicationId "com.example.movieapp"
+        applicationId "com.example.couponapp"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
