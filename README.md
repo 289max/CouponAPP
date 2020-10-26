@@ -27,5 +27,5 @@ API文档：https://www.sunofbeach.net/a/1201366916766224384
 ![](https://i.loli.net/2020/10/26/3duvlhCDRkOX2ca.png)   
 点击商品，切换到领券界面  
 ![](https://i.loli.net/2020/10/26/71B6isJ5pf9ZgAD.png)    
-点击领券：    
+点击领券，跳转到淘宝：    
 ![](https://i.loli.net/2020/10/26/N9eDkSCLw4qh3mf.png)  
