@@ -16,7 +16,7 @@ API文档：https://www.sunofbeach.net/a/1201366916766224384
 10.RxQRCode和Zxing实现二维码扫描和解析  
 截图：  
 首页：    
-![{1O9$NMZ)H78{~AK5)S%YNL.png](https://i.loli.net/2020/10/26/8kSrumnBwTLv5ip.png) 
+![](https://i.loli.net/2020/10/26/8kSrumnBwTLv5ip.png)  
 精选页面：  
 ![](https://i.loli.net/2020/10/26/SbsPjhCTLaeynHv.png)  
 特惠界面：  
